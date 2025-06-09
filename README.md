@@ -32,7 +32,7 @@ It detects if the input text is a valid feedback/comment using zero-shot classif
 
 1. **Clone the repository or copy the files**
 
-git clone https://github.com/yourusername/sentiment-feedback-app.git
+git clone https://github.com/shannu-afk/sentiment-feedback-app.git
 
 cd sentiment-feedback-app
 
