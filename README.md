@@ -34,13 +34,13 @@ It detects if the input text is a valid feedback/comment using zero-shot classif
 
 git clone https://github.com/shannu-afk/sentiment-feedback-app.git
 
-cd sentiment-feedback-app
+#cd sentiment-feedback-app
 
 Install dependencies
 
-pip install -r requirements.txt
+#pip install -r requirements.txt
 
 Running the App
 Run the Streamlit app using:
 
-streamlit run app.py
+#streamlit run app.py
